@@ -13546,9 +13546,9 @@
     "time_zone": "Asia/Kolkata",
     "city_code": "BLR",
     "country": "IN",
-    "city": "Devanhalli",
+    "city": "Banglore",
     "state": "Karnataka",
-    "county": "Bangalore Rural",
+    "county": "India",
     "type": "AP"
   },
   {
@@ -29194,9 +29194,9 @@
     "time_zone": "Asia/Kolkata",
     "city_code": "DEL",
     "country": "IN",
-    "city": "Gurgaon",
+    "city": "New Delhi",
     "state": "Haryana",
-    "county": "Gurgaon",
+    "county": "India",
     "type": "AP"
   },
   {
