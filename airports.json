@@ -20082,7 +20082,7 @@
   {
     "code": "CCU",
     "icao": "VECC",
-    "name": "Netaji Subhas Chandra Bose Airport",
+    "name": "Netaji Subhas Chandra Bose Airport - Kolkata",
     "latitude": 22.64531,
     "longitude": 88.43931,
     "elevation": 49,
@@ -20090,7 +20090,7 @@
     "time_zone": "Asia/Kolkata",
     "city_code": "CCU",
     "country": "IN",
-    "city": "Dam Dam",
+    "city": "Kolkata",
     "state": "West Bengal",
     "county": "North 24 Parganas",
     "type": "AP"
